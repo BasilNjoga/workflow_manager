@@ -1,4 +1,4 @@
-# worklflow_manager
+# workflow_manager
 A web application to help you manage and set reminders for tasks, deadlines while breaking them down into the workflow involved
 
 # What problem does this solve
