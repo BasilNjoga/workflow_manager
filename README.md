@@ -16,7 +16,7 @@ I can receive last day emails or reminders to make sure i dont forget anything
 
 # Techinical breakdown
 I will likely build this out using a React/NextJS/TypeScript frontend and Firebase backend. I intend to use Prisma and PostgreSQL databases .
-I would also like to use texting services or which i'll employ Africastalking<https://africastalking.com/> sms API. 
+I would also like to use texting services or which i'll employ Africastalking[https://africastalking.com] sms API. 
 I will similarly use an emaling API
 It will also be important to create a dynamic UI with suitable graphics to show tasks to make it less medial like a regular to do app and list workflows effectively
 
