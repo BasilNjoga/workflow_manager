@@ -11,7 +11,7 @@ You can similarly assign task to different people and in real time see the progr
 - I can add new projects or assignments i have and set their prioriites and deadlines
 - I can break down my projects and assignment into their specific workflows and tasks involved
 - I can automatically assign tasks to myself or team members based on predefined rules or availability
-- I can monitor on the progress of each job and tasks left on visualling applealling dashboard to display real-time status updates, key perfomance indicators and progress metrics
+- I can monitor on the progress of each job and tasks completed or pending on visually applealling dashboard to display real-time status updates, key perfomance indicators and progress metrics
 - I can receive reminders and notifications about projects and tasks along with the individual workflows to reduce pressure while at the same time aligning work
 - I can receive last day emails or reminders to make sure i dont forget anything
 - I can generate detailed reports and analytics to identify bottlenecks, optimize workflows, and track team and individual performance.
@@ -19,7 +19,7 @@ You can similarly assign task to different people and in real time see the progr
 
 # Techinical breakdown
 I will likely build this out using a React/NextJS/TypeScript frontend and Firebase backend. I intend to use Prisma and PostgreSQL databases.
-I would also like to use texting services or which i'll employ [Africastalking](https://africastalking.com) sms API. 
+I would also like to use texting services for which i'll employ [Africastalking](https://africastalking.com) sms API. 
 I will similarly use an emaling API
 It will also be important to create a dynamic and visually appealing UI with suitable graphics to show tasks to make it less medial like a regular to do app and list workflows effectively
 
