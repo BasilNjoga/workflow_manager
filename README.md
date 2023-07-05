@@ -17,7 +17,7 @@ You can similarly assign task to different people and in real time see the progr
 - I can generate detailed reports and analytics to identify bottlenecks, optimize workflows, and track team and individual performance.
 
 
-# Techinical breakdown
+# Technical breakdown
 I will likely build this out using a React/NextJS/TypeScript frontend and Firebase backend. I intend to use Prisma and PostgreSQL databases.
 I would also like to use texting services for which i'll employ [Africastalking](https://africastalking.com) sms API. 
 I will similarly use an emaling API
